@@ -2,7 +2,7 @@
  Simple Multi-Layer Perceptron in GML. Uses GMS2.3.
  These scripts are simplified versions of other GML MLP scripts I have been writing.  
  
- This included three different MLP versions:
+ This includes three different MLP versions:
   - Array
   - Grid
   - Mini
