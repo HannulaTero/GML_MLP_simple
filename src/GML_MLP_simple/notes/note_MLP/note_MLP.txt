@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------
+
+By Tero Hannula 2021.
+
+---------------------------------------------------------------------------------
+
+These MLP scripts are free to use and modify.
+
+---------------------------------------------------------------------------------
+
+I don't quarantee these simplified scripts work correctly, 
+as they have not been throughly tested. 
+
+---------------------------------------------------------------------------------
+
+These MLP scripts are simplified versions of other MLP scripts from Tero Hannula,
+which include more gradient descent -optimizers, cost functions, 
+saving and loading MLP's, and other things, like examples and use-cases.
+Compability of simplified scripts with these is not quaranteed.
+
+---------------------------------------------------------------------------------
