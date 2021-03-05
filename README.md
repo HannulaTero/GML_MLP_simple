@@ -9,13 +9,8 @@
 
 Array and Grid are different how they store and calculate weights. 
 Mini is similiar to Array, but it's more simplified.
-
-Uses Mean Squared Error as cost function. Uses Tanh as activation function.
+Uses Tanh as activation function. 
 
 Included learning methods:
- - Stochastic Gradient Descent. 
- - Genetic Algorithm. 
-
-SGD uses backpropagation, and batch size can be 1 or more. 
-
-Genetic Algorithm is just one simple way of implementing it. It includes 1) Selection, 2) Offsprings, 3) Mutations.
+ - Stochastic Gradient Descent. Uses backpropagation, and batch size can be 1 or more. Uses Mean Squared Error as cost function.
+ - Genetic Algorithm. One simple way of implementing it. It includes 1) Selection, 2) Offsprings, 3) Mutations.
