@@ -1,7 +1,8 @@
 # GML_MLP_simple
- Simple Multi-Layer Perceptron in GML
+ Simple Multi-Layer Perceptron in GML.
+ These scripts are simplified versions of other GML MLP scripts I have been writing.  
  
- There are three different MLP versions:
+ This included three different MLP versions:
   - Array
   - Grid
   - Mini
@@ -9,9 +10,7 @@
 Array and Grid are different how they store and calculate weights. 
 Mini is similiar to Array, but it's more simplified.
 
-Uses Mean Squared Error as cost function.
-
-Uses Tanh as activation function.
+Uses Mean Squared Error as cost function. Uses Tanh as activation function.
 
 Included learning methods:
  - Stochastic Gradient Descent. 
